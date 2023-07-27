@@ -2,7 +2,7 @@
   <img src="Modern Minimal Technology Background Facebook Cover.png" >
 </p>
 
-# Felipe BOrges
+# Felipe Borges
 <sub>Engenheiro de Dados</sub>
 
 Com experiência em pipeline de dados usando Python e também na ferramenta Pentaho, sou um profissional apaixonado por transformar informações em conhecimento valioso. Além disso, com conhecimento em observação e monitoramento através do Airflow, e adoro criar dashboards interativos e impactantes utilizando Qlik Sense ou Power BI.
