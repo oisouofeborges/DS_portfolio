@@ -12,7 +12,7 @@ Minha jornada inclui a construção de modelagens de dados sofisticadas e integr
 Acredito que a análise de dados é uma arte que pode levar a insights valiosos e mudar a forma como as empresas operam. Tenho o compromisso de enfrentar novos desafios e estou sempre buscando atualizações para aprimorar minhas habilidades em constante evolução.
 
 
-**Background in:** Python, Qlik Sense, Power BI e MOdelagem de dados.
+**Background in:** Python, Qlik Sense, Power BI e Modelagem de dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/prazer-felipe-borges/)
