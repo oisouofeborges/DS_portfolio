@@ -23,3 +23,4 @@ Acredito que a análise de dados é uma arte que pode levar a insights valiosos 
 Ainda nenhum :(
 
 ---
+*[Projeto Análise de Dados Airbnb cidade de Bergamo](https://github.com/oisouofeborges/DS_portfolio/blob/main/Analise_de_Dados_do_Airbnb.ipynb)
